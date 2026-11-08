@@ -2,7 +2,7 @@
 
 Structured chess practice with tactics, positional judgment, endgames and on-device analysis.
 
-[Official product website](https://brasspawn.com/) · [App Store listing](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012)
+[Official product website](https://brasspawn.com/) · [App Store listing](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012) · [Side-by-side comparisons](https://brasspawn.com/compare) · [Guides & workflows](https://brasspawn.com/guides) · [Full LLM reference (llms-full.txt)](https://brasspawn.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 

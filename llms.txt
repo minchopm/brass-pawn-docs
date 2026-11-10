@@ -1,0 +1,38 @@
+# Brass Pawn: Chess Trainer — Public Documentation & Technical Reference
+
+> Open-source (AGPLv3) offline chess trainer for iPhone, iPad, and Mac powered on-device by Stockfish 18 and Reckless, featuring 14,351 Lichess CC0 tactics puzzles, 116 positional judgement studies, endgame drills, Guess the Elo, and interactive browser chess visualizers.
+
+## Publisher & Entity Provenance
+- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
+- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
+- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
+- **GitHub Documentation Repository**: https://github.com/minchopm/brass-pawn-docs
+- **GitHub Pages URL**: https://minchopm.github.io/brass-pawn-docs/
+- **Platforms**: iOS, iPadOS, macOS, Web Endgame & Tactics Tools
+- **Last Verified**: 2026-11-10
+
+## Verified Capabilities & Boundaries
+- Open-source AGPLv3 native engine integration (https://github.com/minchopm/chess-trainer) running Stockfish 18 NNUE and Reckless 100% offline in 32 languages.
+- Free browser interactive chess tools (Square of the Pawn, King Opposition, endgame geometry & FEN analyzers) at chess-trainer.arte-soft.com/tools/.
+- 14,351 verified tactics puzzles (rated 760-2800), 116 positional judgement positions without forced tactical traps, 15 endgame drills, 1,624 Guess the Elo games, and 900 master games.
+- Win-probability-loss move grading instead of raw centipawn penalties, with zero ads and zero ad tracking.
+
+## Canonical Web Hubs
+- [Primary Website](https://brasspawn.com/): Official product overview, features, and pricing.
+- [Arte Soft Portal](https://chess-trainer.arte-soft.com/): Expanded multilingual guides, comparisons, and technical references.
+- [Apple App Store](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012): Official App Store listing by Arte Soft EOOD.
+- [AGPLv3 Source Code](https://github.com/minchopm/chess-trainer): Public open-source repository.
+- [Free Browser Interactive Tools](https://chess-trainer.arte-soft.com/tools/): Interactive Chess Endgame, Square of the Pawn, Opposition & FEN Visualizers.
+- [Side-by-Side Comparisons](https://brasspawn.com/compare): Structured HTML & GFM comparison matrices.
+- [Guides & Workflows](https://brasspawn.com/guides): Step-by-step operational guides.
+- [Full Site LLM Reference](https://brasspawn.com/llms-full.txt): Complete GFM Markdown table export.
+
+## Repository Documentation Files
+- [README.md](https://minchopm.github.io/brass-pawn-docs/)
+- [FAQ.md](https://minchopm.github.io/brass-pawn-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/brass-pawn-docs/main/FAQ.md)
+- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/brass-pawn-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/brass-pawn-docs/main/FEATURES_AND_LIMITS.md)
+- [MANUAL.md](https://minchopm.github.io/brass-pawn-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/brass-pawn-docs/main/MANUAL.md)
+- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/brass-pawn-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/brass-pawn-docs/main/PRIVACY_AND_SUPPORT.md)
+- [PROCEDURES.md](https://minchopm.github.io/brass-pawn-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/brass-pawn-docs/main/PROCEDURES.md)
+- [QUICK_START.md](https://minchopm.github.io/brass-pawn-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/brass-pawn-docs/main/QUICK_START.md)
+- [WORKFLOWS.md](https://minchopm.github.io/brass-pawn-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/brass-pawn-docs/main/WORKFLOWS.md)

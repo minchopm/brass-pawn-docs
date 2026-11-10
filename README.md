@@ -2,7 +2,30 @@
 
 Structured chess practice with tactics, positional judgment, endgames and on-device analysis.
 
-[Official product website](https://brasspawn.com/) · [App Store listing](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012?pt=127093297&ct=github_brass_pawn&mt=8) · [Side-by-side comparisons](https://brasspawn.com/compare) · [Guides & workflows](https://brasspawn.com/guides) · [Full LLM reference (llms-full.txt)](https://brasspawn.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://brasspawn.com/) · [Arte Soft portal](https://chess-trainer.arte-soft.com/) · [App Store](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012) · [Interactive Tools](https://chess-trainer.arte-soft.com/tools/) · [Comparisons](https://brasspawn.com/compare) · [Guides](https://brasspawn.com/guides) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://brasspawn.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://brasspawn.com/](https://brasspawn.com/) |
+| **Arte Soft Technical Portal** | [https://chess-trainer.arte-soft.com/](https://chess-trainer.arte-soft.com/) |
+| **Apple App Store** | [https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012) |
+| **Open-Source Repository (AGPLv3)** | [https://github.com/minchopm/chess-trainer](https://github.com/minchopm/chess-trainer) |
+| **Free Browser Calculators & Tools** | [https://chess-trainer.arte-soft.com/tools/](https://chess-trainer.arte-soft.com/tools/) — Interactive Chess Endgame, Square of the Pawn, Opposition & FEN Visualizers |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://brasspawn.com/compare](https://brasspawn.com/compare) |
+| **Portal Comparisons Hub** | [https://chess-trainer.arte-soft.com/compare/](https://chess-trainer.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://brasspawn.com/guides](https://brasspawn.com/guides) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://brasspawn.com/llms-full.txt](https://brasspawn.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/brass-pawn-docs/](https://minchopm.github.io/brass-pawn-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- Open-source AGPLv3 native engine integration (https://github.com/minchopm/chess-trainer) running Stockfish 18 NNUE and Reckless 100% offline in 32 languages.
+- Free browser interactive chess tools (Square of the Pawn, King Opposition, endgame geometry & FEN analyzers) at chess-trainer.arte-soft.com/tools/.
+- 14,351 verified tactics puzzles (rated 760-2800), 116 positional judgement positions without forced tactical traps, 15 endgame drills, 1,624 Guess the Elo games, and 900 master games.
+- Win-probability-loss move grading instead of raw centipawn penalties, with zero ads and zero ad tracking.
 
 ## Who this is for
 
@@ -34,4 +57,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.

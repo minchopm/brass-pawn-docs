@@ -58,3 +58,14 @@ Published by the product developer as first-party user documentation. It covers 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
 Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+
+## Free Browser Chess Tools & 2026 Training Library
+
+- **12 Free Interactive Browser Chess Tools:** https://brasspawn.com/tools
+  - [FEN Chessboard Viewer & Validator](https://brasspawn.com/tools/fen-board-viewer)
+  - [Online PGN Cleaner & Clock Stripper](https://brasspawn.com/tools/pgn-viewer-cleaner)
+  - [2026 FIDE Elo Rating Calculator](https://brasspawn.com/tools/fide-elo-rating-calculator)
+  - [FIDE GM/IM Title Norm Calculator](https://brasspawn.com/tools/fide-title-norm-calculator)
+  - [Full-Screen Fischer Chess Clock](https://brasspawn.com/tools/online-chess-clock)
+- **176 Opening, Endgame & FIDE Tournament Guides:** https://brasspawn.com/guides
+- **197 Chess App & Engine Comparisons:** https://brasspawn.com/compare
